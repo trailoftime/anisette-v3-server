@@ -1,10 +1,10 @@
 {
-    "servers": [
-        {
-            "name": "My Server",
-            "address": "http://hfg09dsvdeb.sn.mynetname.net:59751:6969",
-        },
-        {
+  "servers": [
+    {
+      "name": "My Server",
+      "address": "http://hfg09dsvdeb.sn.mynetname.net:59751:6969",
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
@@ -62,5 +62,4 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
-    ]
 }
