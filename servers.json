@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "My Server",
-      "address": "http://hfg09dsvdeb.sn.mynetname.net:59751:6969",
+      "address": "http://hfg09dsvdeb.sn.mynetname.net:6969",
     },
     {
       "name": "SideStore",
